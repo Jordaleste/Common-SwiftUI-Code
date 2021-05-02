@@ -38,7 +38,6 @@ struct ContentView: View {
                 // Code dismiss action here
             }))
         }
-        
     }
 }
 
