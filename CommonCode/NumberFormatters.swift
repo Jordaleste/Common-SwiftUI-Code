@@ -23,3 +23,10 @@ extension Double {
         return formattedNumber
     }
 }
+
+/// Returns given date in .short notation
+var dateFormatter: DateFormatter {
+    let dateFormatter = DateFormatter()
+    dateFormatter.dateStyle = .short
+    return dateFormatter
+}

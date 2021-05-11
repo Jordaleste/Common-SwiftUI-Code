@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		196F9E1E264B31E50032096C /* DateFormatters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 196F9E1D264B31E50032096C /* DateFormatters.swift */; };
 		198AAB56263EE33600CD8394 /* AlertView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 198AAB55263EE33600CD8394 /* AlertView.swift */; };
 		19AB1043263C305A0016E9C6 /* CommonCodeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19AB1042263C305A0016E9C6 /* CommonCodeApp.swift */; };
 		19AB1045263C305A0016E9C6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19AB1044263C305A0016E9C6 /* ContentView.swift */; };
@@ -21,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		196F9E1D264B31E50032096C /* DateFormatters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateFormatters.swift; sourceTree = "<group>"; };
 		198AAB55263EE33600CD8394 /* AlertView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertView.swift; sourceTree = "<group>"; };
 		198AAB57263EEAAA00CD8394 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		19AB103F263C305A0016E9C6 /* CommonCode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CommonCode.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -74,6 +76,7 @@
 				19AB1053263C30B40016E9C6 /* CustomColors.swift */,
 				19AB1055263C30CC0016E9C6 /* BundleExtension.swift */,
 				19AB1057263C30E50016E9C6 /* NumberFormatters.swift */,
+				196F9E1D264B31E50032096C /* DateFormatters.swift */,
 				19AB1059263C30FA0016E9C6 /* AskForReview.swift */,
 				19EACD27263C3F9D003D42E0 /* AppTrackingManager.swift */,
 				198AAB55263EE33600CD8394 /* AlertView.swift */,
@@ -167,6 +170,7 @@
 				19EACD28263C3F9D003D42E0 /* AppTrackingManager.swift in Sources */,
 				19AB1052263C30980016E9C6 /* ViewModifiers.swift in Sources */,
 				19AB1045263C305A0016E9C6 /* ContentView.swift in Sources */,
+				196F9E1E264B31E50032096C /* DateFormatters.swift in Sources */,
 				19AB1054263C30B40016E9C6 /* CustomColors.swift in Sources */,
 				19AB1043263C305A0016E9C6 /* CommonCodeApp.swift in Sources */,
 				19AB1058263C30E50016E9C6 /* NumberFormatters.swift in Sources */,
